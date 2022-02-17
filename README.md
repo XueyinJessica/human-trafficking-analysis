@@ -4,7 +4,7 @@
 
 这里的假设是如果一个地区与‘拐卖‘有关的离婚事件多，那么此地区可能存在拐卖情况。
 
-注：一个地区排名靠前不可推导出该地区拐卖盛行的结论，仅为存疑。
+注：一个地区排名靠前不可推导出该地区拐卖盛行的结论，仅为存疑。此数据有滞后性，某地区可能曾经有问题不代表现在有问题。
 
 This repo utilize data from the Supreme People's Court to find places that might have human trafficking activity.
 
