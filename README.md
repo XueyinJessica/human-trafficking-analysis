@@ -1,6 +1,10 @@
 # 拐卖情况分析 human-trafficking-analysis
 
-本文旨在通过公开数据寻找拐卖情况存疑地区，以此为后续分析调查做基础，一个地区排名靠前不可推导出该地区拐卖盛行的结论。
+本文旨在通过公开数据寻找拐卖情况存疑地区，将各地区根据基层人民法院判决中有‘拐卖’和‘离婚’这两个关键字的民事案件条目数进行排序。
+
+这里的假设是如果一个地区与‘拐卖‘有关的离婚事件多，那么此地区可能存在拐卖情况。
+
+注：一个地区排名靠前不可推导出该地区拐卖盛行的结论，仅为存疑。
 
 This repo utilize data from the Supreme People's Court to find places that might have human trafficking activity.
 
@@ -15,6 +19,9 @@ This repo utilize data from the Supreme People's Court to find places that might
 
 *某地区有‘拐卖’，‘离婚’等关键词，并不代表此地区是收买被拐妇女地区。最终结果数据也未根据区域人口数量进行调整。*
 
-## 结果 result
+## 参考结果 result
+
+目前备受关注丰县，这样的数据有两条。另有19个地区这样的数据有4-5条。
+
 ![result](image/result.png)
 ![notice](image/notice.png)
